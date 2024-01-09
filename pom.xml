@@ -104,7 +104,7 @@
         <dependency>
             <groupId>org.jolokia</groupId>
             <artifactId>jolokia-core</artifactId>
-            <version>1.4.0</version>
+            <version>1.6.1</version>
         </dependency>
 
         <!-- 引入groovy 来执行命令 -->
