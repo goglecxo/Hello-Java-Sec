@@ -1,0 +1,37 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "New Threat Model test",
+    "owner": "wen",
+    "description": "high",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "q",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.2.0",
+        "cells": [],
+        "description": "a"
+      },
+      {
+        "id": 1,
+        "title": "sdad",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.2.0",
+        "cells": [],
+        "description": "dasd"
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "me",
+    "threatTop": 0
+  }
+}
